@@ -1,0 +1,14 @@
+C:\Users\Veliaraft\source\repos\island_console\island_console\bin\Debug\netcoreapp3.1\island_console.exe
+C:\Users\Veliaraft\source\repos\island_console\island_console\bin\Debug\netcoreapp3.1\island_console.deps.json
+C:\Users\Veliaraft\source\repos\island_console\island_console\bin\Debug\netcoreapp3.1\island_console.runtimeconfig.json
+C:\Users\Veliaraft\source\repos\island_console\island_console\bin\Debug\netcoreapp3.1\island_console.runtimeconfig.dev.json
+C:\Users\Veliaraft\source\repos\island_console\island_console\bin\Debug\netcoreapp3.1\island_console.dll
+C:\Users\Veliaraft\source\repos\island_console\island_console\bin\Debug\netcoreapp3.1\island_console.pdb
+C:\Users\Veliaraft\source\repos\island_console\island_console\obj\Debug\netcoreapp3.1\island_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veliaraft\source\repos\island_console\island_console\obj\Debug\netcoreapp3.1\island_console.AssemblyInfoInputs.cache
+C:\Users\Veliaraft\source\repos\island_console\island_console\obj\Debug\netcoreapp3.1\island_console.AssemblyInfo.cs
+C:\Users\Veliaraft\source\repos\island_console\island_console\obj\Debug\netcoreapp3.1\island_console.csproj.CoreCompileInputs.cache
+C:\Users\Veliaraft\source\repos\island_console\island_console\obj\Debug\netcoreapp3.1\island_console.dll
+C:\Users\Veliaraft\source\repos\island_console\island_console\obj\Debug\netcoreapp3.1\island_console.pdb
+C:\Users\Veliaraft\source\repos\island_console\island_console\obj\Debug\netcoreapp3.1\island_console.genruntimeconfig.cache
+C:\Users\Veliaraft\source\repos\island_console\island_console\obj\Debug\netcoreapp3.1\island_console.csproj.AssemblyReference.cache

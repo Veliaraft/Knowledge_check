@@ -1,0 +1,14 @@
+C:\Users\Veliaraft\source\repos\signals_consoled\signals_consoled\obj\Debug\netcoreapp3.1\signals_consoled.csproj.AssemblyReference.cache
+C:\Users\Veliaraft\source\repos\signals_consoled\signals_consoled\obj\Debug\netcoreapp3.1\signals_consoled.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veliaraft\source\repos\signals_consoled\signals_consoled\obj\Debug\netcoreapp3.1\signals_consoled.AssemblyInfoInputs.cache
+C:\Users\Veliaraft\source\repos\signals_consoled\signals_consoled\obj\Debug\netcoreapp3.1\signals_consoled.AssemblyInfo.cs
+C:\Users\Veliaraft\source\repos\signals_consoled\signals_consoled\obj\Debug\netcoreapp3.1\signals_consoled.csproj.CoreCompileInputs.cache
+C:\Users\Veliaraft\source\repos\signals_consoled\signals_consoled\bin\Debug\netcoreapp3.1\signals_consoled.exe
+C:\Users\Veliaraft\source\repos\signals_consoled\signals_consoled\bin\Debug\netcoreapp3.1\signals_consoled.deps.json
+C:\Users\Veliaraft\source\repos\signals_consoled\signals_consoled\bin\Debug\netcoreapp3.1\signals_consoled.runtimeconfig.json
+C:\Users\Veliaraft\source\repos\signals_consoled\signals_consoled\bin\Debug\netcoreapp3.1\signals_consoled.runtimeconfig.dev.json
+C:\Users\Veliaraft\source\repos\signals_consoled\signals_consoled\bin\Debug\netcoreapp3.1\signals_consoled.dll
+C:\Users\Veliaraft\source\repos\signals_consoled\signals_consoled\bin\Debug\netcoreapp3.1\signals_consoled.pdb
+C:\Users\Veliaraft\source\repos\signals_consoled\signals_consoled\obj\Debug\netcoreapp3.1\signals_consoled.dll
+C:\Users\Veliaraft\source\repos\signals_consoled\signals_consoled\obj\Debug\netcoreapp3.1\signals_consoled.pdb
+C:\Users\Veliaraft\source\repos\signals_consoled\signals_consoled\obj\Debug\netcoreapp3.1\signals_consoled.genruntimeconfig.cache
